@@ -9,10 +9,10 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
-    path: Assets/GameProg Items/OLD ASSETS/Scenes/Loading Screen.unity
+    path: Assets/Scenes/Loading Screen.unity
     guid: 833bc2b2ed7bdcf4fbbec67ed9b7e6f0
   - enabled: 1
-    path: Assets/GameProg Items/OLD ASSETS/Scenes/Lobby.unity
+    path: Assets/Scenes/Lobby.unity
     guid: 91331322fec974499b48a6fbedbe090d
   - enabled: 1
     path: Assets/Scenes/GameScene(InGame).unity
